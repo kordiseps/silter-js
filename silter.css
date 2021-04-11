@@ -1,0 +1,15 @@
+#silter-wrapper {
+  color: red;
+}
+#filter-bar-input {
+  width: auto;
+  color: blueviolet;
+  border: .5px solid gray;
+}
+#filter-bar-menu {
+  width: 250px;
+}
+.filter-bar-option {
+  color: rgb(243, 217, 243);
+  background-color: rgb(120, 165, 224);
+}
